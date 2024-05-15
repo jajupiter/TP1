@@ -18,8 +18,10 @@ Validación: No puede quedar vacío el campo, y el sistema ofrecerá los tipos d
 •Código de proveedor: El código a los proveedores serán códigos de 3 cifras las cuales serán secuenciales en el sistema hexadecimal, conforme a se vayan comprando a estos se la ira añadiendo y de ya existir, existirá una tabla asociado a ellos con su nombre para poder identificarlos de manera más eficiente y eficaz. No puede ser vacío.
 •Precio de compra: No puede ser vacío. El valor que tomara será apto para números y la coma o punto decimal, en el caso de que este ingrese un numero entero se rellenaran la parte decimal con 00. 
 
-Wirefrma
+Wireframe
+
 ![image](https://github.com/jajupiter/TP1/assets/168550769/fc743bec-f6b9-4030-bd9f-113e517233de)
 
 Prototipo de la interfaz
+
 ![Captura de pantalla 2024-05-14 221659](https://github.com/jajupiter/TP1/assets/168550769/2bb55824-2823-4dec-acd2-3976e0063d1b)
