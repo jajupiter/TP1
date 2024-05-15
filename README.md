@@ -27,9 +27,13 @@ Validación: No puede quedar vacío el campo, y el sistema ofrecerá los tipos d
 
 •Precio de compra: No puede ser vacío. El valor que tomara será apto para números y la coma o punto decimal, en el caso de que este ingrese un numero entero se rellenaran la parte decimal con 00. 
 
+
 WIREFRAME
+
+
 ![image](https://github.com/jajupiter/TP1/assets/168550769/fc743bec-f6b9-4030-bd9f-113e517233de)
 
 PROTOTIPO DE LA INTERFAZ
+
 
 ![Captura de pantalla 2024-05-14 221659](https://github.com/jajupiter/TP1/assets/168550769/2bb55824-2823-4dec-acd2-3976e0063d1b)
