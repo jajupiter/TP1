@@ -9,6 +9,7 @@ Ejemplo:
 Vestido para mujer marca Zara talla S de algodón color turquesa. = VM001SA5DC1B9.
 
 Validación: 	
+
 •Nombre de producto: Acepta de 1-75 caracteres.
 Validación: No puede quedar vacío el campo, y el sistema ofrecerá los tipos de prendas disponibles conforme escriba para poder tener una clasificación igualitaria. 
 •Descripción:  Aceptara de 1 - 250 caracteres. No puede quedar vacía, todo lo entrado al momento será evaluado por una función verificando que las palabras en su mayoría sean parte del diccionario para así poder verificar la veracidad de este
